@@ -19,13 +19,13 @@ const Playlist = () => {
             </tr>
           </thead>
           <tbody>
-{/* 
+
             <tr class="hover">
               <th>1</th>
               <td>Cy Ganderton</td>
               <td>Quality Control Specialist</td>
               <td>Blue</td>
-            </tr> */}
+            </tr>
 
             <tr class="hover">
               <th>2</th>
