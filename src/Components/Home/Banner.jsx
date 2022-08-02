@@ -5,7 +5,7 @@ import bannerimg from '../../images/musicgirl.png';
 const Banner = () => {
   return (
     <>
-      {/* <div className='mt-16'>
+      <div className='mt-16'>
         <div class="hero h-56 relative bg-[url('https://i.pinimg.com/originals/7f/d3/03/7fd30312ab5b336f70e8426a6d084699.jpg')]">
           <div class="hero-content flex-col lg:flex-row-reverse">
             <img className='w-96 h-80 absolute -right-4 -top-20 max-w-sm lg:ml-20' src={bannerimg}  alt=''/>
@@ -22,7 +22,7 @@ const Banner = () => {
         <Playlist></Playlist>
 
 
-      </div> */}
+      </div>
     </>
   );
 };
